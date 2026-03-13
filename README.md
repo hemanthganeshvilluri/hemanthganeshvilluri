@@ -7,10 +7,17 @@ I am a driven and passionate individual with a strong background in computer vis
 To leverage my expertise in machine learning and computer vision to contribute to innovative projects that push the boundaries of technology while continuously developing my professional skills.
 
 ## Skills
+- **Machine Learning**
+- **Model Training**
+- **Model Deployment**
+- **Pipelines**
+- **Fast API**
+- **Deep Learning**
+- **Image Classification**
+- **Object Detection** using YOLO
 - **Vision Transformers**
 - **Detection Transformers**
-- **Semantic Segmentation** with U-Net and DeepLabV3+
-- **Instance Segmentation** with YOLO
+- **Image Segmentation** with U-Net and DeepLabV3+ and YOLO
 
 ## Education
 - **Bachelor of Technology in Computer Science**  
