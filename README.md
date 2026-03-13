@@ -94,4 +94,4 @@ Built an object detection model to **identify drones in images or video streams*
 
 💻 GitHub: https://github.com/hemanthganeshvilluri
 
-🔗 LinkedIn: Add your LinkedIn profile link here
+📱 Mobile: +91 81870 39459
