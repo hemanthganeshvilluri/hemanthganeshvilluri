@@ -40,6 +40,7 @@ To build a strong career in **Artificial Intelligence and Computer Vision** by a
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge\&logo=fastapi)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge\&logo=huggingface)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-blue?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 
 ---
