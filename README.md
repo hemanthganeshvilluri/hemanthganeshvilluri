@@ -82,11 +82,6 @@ Built an object detection model to **identify drones in images or video streams*
 
 ---
 
-## 📊 GitHub Stats
-
-![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanthganeshvilluri\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthganeshvilluri\&layout=compact\&theme=tokyonight)
 
 ---
 
