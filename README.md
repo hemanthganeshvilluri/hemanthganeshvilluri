@@ -82,9 +82,6 @@ Built an object detection model to **identify drones in images or video streams*
 
 ---
 
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: [hemanthganeshvilluri@gmail.com](mailto:hemanthganeshvilluri@gmail.com)
